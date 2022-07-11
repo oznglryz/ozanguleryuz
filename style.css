@@ -26,6 +26,7 @@ body {
 nav
 {
     margin-top: 20px;
+    justify-content: left;
 }
 nav> ul > li {
     list-style: none;
