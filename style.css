@@ -259,7 +259,13 @@ div.col-5 h2
   .row2 > div > p
   {
     font-family: 'Lato';
-    font-weight: 400;
+    font-weight: 300;
+    color: var(--txt);
+  }
+  .row2 > div > p > a
+  {
+    font-family: 'Lato';
+    font-weight: 300;
     color: var(--txt);
   }
   footer
@@ -272,4 +278,12 @@ div.col-5 h2
   {
     color: var(--txt);
     text-decoration:underline;
+  }
+  .ozan
+  {
+    text-decoration: none;
+  }
+  .ozan:hover
+  {
+    color: #007bb5;
   }
