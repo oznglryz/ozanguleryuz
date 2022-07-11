@@ -346,3 +346,14 @@ span:before {
     font-weight: 400;
     color: var(--txt);
   }
+  footer
+  {
+    font-family: 'Lato';
+    color: var(--txt);
+    text-align: center;
+  }
+  footer a
+  {
+    color: var(--txt);
+    text-decoration:underline;
+  }
