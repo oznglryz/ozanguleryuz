@@ -1,0 +1,85 @@
+div.col-5 > h4{
+    font-family: 'Lato';
+    text-align:center;
+    color: var(--txt);
+}
+
+span:before {
+    font-family: 'Lato';
+    color: var(--txt);
+    content: "oyuncu";
+    animation: animate infinite 4s;
+    padding-left: 5px;
+}
+
+@keyframes animate {
+
+    0% {
+        content: "oyuncu";
+        opacity: 1;
+    }
+    5% {
+        opacity: 0.5;
+    }
+    10% {
+        opacity: 0;
+    }
+    15% {
+        opacity: 0.5;
+    }
+    20% {
+        content: "web geliştirici";
+        opacity: 1;
+    }
+    25% {
+        opacity: 0.5;
+    }
+    30% {
+        opacity: 0;
+    }
+    35% {
+        opacity: 0.5;
+    }
+    40% {
+        opacity: 1;
+        content: "gezgin";
+    }
+    45% {
+        opacity: 0.5;
+    }
+    50% {
+        opacity: 0;
+    }
+    55% {
+        opacity: 0.5;
+    }
+    60% {
+        opacity: 1;
+        content: "kedi babası";
+    }
+    65% {
+        opacity: 0.5;
+    }
+    70% {
+        opacity: 0;
+    }
+    75% {
+        opacity: 0.5;
+    }
+    80% {
+        opacity: 1;
+        content: "müzik sever";
+    }
+    85% {
+        opacity: 0.5;
+    }
+    90% {
+        opacity: 0;
+    }
+    95% {
+        opacity: 0.5;
+    }
+    100%{
+        opacity: 1;
+    }
+}
