@@ -337,6 +337,7 @@ span:before {
     border: 1px solid var(--border);
     border-radius: 20px;
     margin-top: 20px;
+    margin-bottom: 20px;
   }
   .row2 > div > p
   {
