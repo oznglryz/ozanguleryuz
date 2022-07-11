@@ -1,2 +1,2 @@
-# ozanguleryuz
+# ozanguleryuz.com
  portfolio website
