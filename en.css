@@ -1,11 +1,11 @@
 div.col-5 > h4{
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Quicksand';
     text-align:center;
     color: var(--txt);
 }
 
 span:before {
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Quicksand';
     color: var(--txt);
     content: "gamer";
     animation: animate infinite 4s;
