@@ -1,11 +1,11 @@
 div.col-5 > h4{
-    font-family: 'Lato';
+    font-family: 'Quicksand', sans-serif;
     text-align:center;
     color: var(--txt);
 }
 
 span:before {
-    font-family: 'Lato';
+    font-family: 'Quicksand', sans-serif;
     color: var(--txt);
     content: "oyuncu";
     animation: animate infinite 4s;
