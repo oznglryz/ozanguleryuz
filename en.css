@@ -5,7 +5,7 @@ div.col-5 > h4{
     color: var(--txt);
 }
 
-span:before {
+div.col-5 span:before {
     font-family: 'Quicksand';
     color: var(--txt);
     content: "gamer";
