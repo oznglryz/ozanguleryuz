@@ -148,7 +148,7 @@ div.col-5
 }
 div.col-5 h2
 {
-    
+    font-family: 'Quicksand';
     text-align: center;
     color: var(--txt);
     transition: 1s ease;
