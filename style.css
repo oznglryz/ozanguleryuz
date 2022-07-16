@@ -201,7 +201,7 @@ div.col-5 h2
   }
   
   ul.social li a:before {
-    content: '';
+    content: "";
     position: absolute;
     right:100%;
     width: 100%;
