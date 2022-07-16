@@ -187,20 +187,21 @@ div.col-5 h2
     z-index: 1;
   }
   
-  ul.social li a .icon {
+  ul.social li a i {
     position: relative;
     color: var(--txt);
     transition: 1s;
     z-index: 2;
+    transform: scale(0.8);
   }
   
-  ul.social li a:hover .icon {
+  ul.social li a:hover i {
     color: #fff;
-    transform: rotateZ(360deg);
+    transform: scale(1.2);
   }
   
   ul.social li a:before {
-    content: "";
+    content: '';
     position: absolute;
     right:100%;
     width: 100%;
@@ -268,6 +269,10 @@ div.col-5 h2
     font-family: 'Quicksand';
     font-weight: 300;
     color: var(--txt);
+  }
+  .row2 > div > p > a:hover
+  {
+    background-color: var(--border);
   }
   footer
   {
