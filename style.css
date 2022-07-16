@@ -152,7 +152,7 @@ div.col-5 h2
     text-align: center;
     color: var(--txt);
     transition: 1s ease;
-    text-shadow: 2px 2px 6px black;
+    text-shadow: 2px 2px 6px var(--border);
 }
 
 .social-links
