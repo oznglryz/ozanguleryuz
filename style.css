@@ -172,12 +172,12 @@ div.col-5 h2
   }
   
   ul.social li a {
-    width: 40px;
-    height: 40px;
+    width: 35px;
+    height: 35px;
     background-color: var(--border);
     text-align: center;
-    line-height: 40px;
-    font-size: 28px;
+    line-height: 35px;
+    font-size: 24px;
     margin: 1px;
     display: block;
     border-radius: 16px;
