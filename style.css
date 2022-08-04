@@ -257,7 +257,12 @@ div.col-5 h2
   .row2 > div > p > a
   {
     font-family: 'Quicksand';
+    text-decoration:underline dotted;
     font-weight: 300;
+    color: var(--txt);
+  }
+  .row2 > div > p > a > i
+  {
     color: var(--txt);
   }
   .row2 > div > p > a:hover
